@@ -7,4 +7,4 @@
 ## 3)Big Data
 Big data referes to large volumes of data collected from various sources that can be used to gain valuabele insights,solve problems by using Data science tools and platforms
 ## 4) "Life is a box of chocolates". (Forrest Gump(1994))
-![Chocolate box](https://github.com/user-attachments/assets/e8c13f4b-ed9a-4498-8260-8b08fa55baaa)
+![chocolates box](https://github.com/user-attachments/assets/5192d985-1e10-48f7-a03b-a742b920eea1)
